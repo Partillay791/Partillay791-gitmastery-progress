@@ -61,5 +61,14 @@
       "too many values to unpack (expected 2)"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755764754.823555,
+    "completed_at": 1755764755.926399,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
   }
 ]
